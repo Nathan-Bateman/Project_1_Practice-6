@@ -1,3 +1,15 @@
 h1 {
-    background-color:;
+    background-color: aqua;
+}
+p {
+    background-color: fuchsia;
+}
+ul {
+    background-color: crimson;
+}
+html {
+    background-color: black;
+}
+h4 {
+    background-color: darkmagenta;
 }
